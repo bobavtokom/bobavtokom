@@ -3,7 +3,7 @@
 
 
 ### languages and tools that im using:
-![image](https://user-images.githubusercontent.com/50413799/212086805-7174b594-f7b6-40f3-b060-96e415a07f89.png)
+
 
 
 
