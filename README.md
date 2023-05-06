@@ -1,5 +1,9 @@
 ## Hi there, im Boban
-### I am currently learning on full stack .NET DifferentAcademy
+### I have studied on full stack .NET DifferentAcademy 
+### Currently i am learning and working on different projects using html css js c# sql.
+
+
+
 
 
 
