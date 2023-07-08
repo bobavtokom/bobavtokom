@@ -1,5 +1,6 @@
 ## Hi there, im Boban
 ### I have studied on full stack .NET DifferentAcademy 
+Currently i am working on projects using these technologies:
 ![html-5](https://github.com/bobavtokom/bobavtokom/assets/50413799/525eb476-0d39-417a-85e2-38b64d76d7ad)
 ![css](https://github.com/bobavtokom/bobavtokom/assets/50413799/b0bf3742-710c-49ea-802c-2f757580deb5)
 ![js (1)](https://github.com/bobavtokom/bobavtokom/assets/50413799/85b56d6b-5dba-4276-88ec-cd2e1c46d112)
