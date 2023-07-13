@@ -1,16 +1,22 @@
 ## Hi there, im Boban
 ### I have studied on full stack .NET DifferentAcademy 
 Currently i am working on projects using these technologies:
-![html-5](https://github.com/bobavtokom/bobavtokom/assets/50413799/54f93690-9896-4304-a202-68e5aa4c0b6c)
 
-![html-5](https://github.com/bobavtokom/bobavtokom/assets/50413799/525eb476-0d39-417a-85e2-38b64d76d7ad)
-![css](https://github.com/bobavtokom/bobavtokom/assets/50413799/b0bf3742-710c-49ea-802c-2f757580deb5)
-![js (1)](https://github.com/bobavtokom/bobavtokom/assets/50413799/85b56d6b-5dba-4276-88ec-cd2e1c46d112)
+![html-5](https://github.com/bobavtokom/bobavtokom/assets/50413799/54f93690-9896-4304-a202-68e5aa4c0b6c)
+![css](https://github.com/bobavtokom/bobavtokom/assets/50413799/3a3d9767-cabb-4704-8ea8-61f3630d2f58)
+
+![js (1)](https://github.com/bobavtokom/bobavtokom/assets/50413799/04be9b2b-29fc-4546-bad6-302958ae4b13)
+
  ![c-sharp](https://github.com/bobavtokom/bobavtokom/assets/50413799/b986b78d-717c-4ead-8e6b-570610210cae)
- ![sql-server](https://github.com/bobavtokom/bobavtokom/assets/50413799/6fbd2223-dd24-4690-bc92-0607f4d37bd1)
- mongodb, ![nodejs](https://github.com/bobavtokom/bobavtokom/assets/50413799/40fa500c-5b5a-448b-b105-22ad2a50194e)
- ![react](https://github.com/bobavtokom/bobavtokom/assets/50413799/f556a8af-0677-4236-bcd3-b8a993757c36)
- ![web (1)](https://github.com/bobavtokom/bobavtokom/assets/50413799/84b84916-726b-4adb-add7-e3289f9899ea)
+ ![sql-server](https://github.com/bobavtokom/bobavtokom/assets/50413799/5edfc3bf-4850-4cd1-8a27-a9af251f590a)
+ ![Mongodb-PNG-Image-HD](https://github.com/bobavtokom/bobavtokom/assets/50413799/2c127241-e3f7-4ad8-b236-e3461af6c7a6)
+
+ ![nodejs](https://github.com/bobavtokom/bobavtokom/assets/50413799/ad30e1f3-000a-4817-9c82-808976e91d92)
+
+ ![react](https://github.com/bobavtokom/bobavtokom/assets/50413799/a0d9683b-f981-48bd-8a3d-47d75041c2bc)
+
+ ![web (1)](https://github.com/bobavtokom/bobavtokom/assets/50413799/a3141d19-432d-4a15-8273-307871cfefe1)
+
 
 
 
